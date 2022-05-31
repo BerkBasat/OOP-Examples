@@ -1,0 +1,12 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\bin\Debug\WFA_InsanKaynaklari.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\bin\Debug\WFA_InsanKaynaklari.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\bin\Debug\WFA_InsanKaynaklari.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.LoginForm.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.PersonelForm.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\31.03\WFA_InsanKaynaklari\WFA_InsanKaynaklari\obj\Debug\WFA_InsanKaynaklari.DepartmanForm.resources

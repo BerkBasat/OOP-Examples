@@ -1,0 +1,10 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\bin\Debug\WFA_AracListesi.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\bin\Debug\WFA_AracListesi.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\bin\Debug\WFA_AracListesi.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\28.03\WFA_AracListesi\WFA_AracListesi\obj\Debug\WFA_AracListesi.pdb

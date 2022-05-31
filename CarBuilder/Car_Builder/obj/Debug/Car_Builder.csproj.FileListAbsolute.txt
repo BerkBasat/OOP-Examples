@@ -1,0 +1,8 @@
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\bin\Debug\Car_Builder.exe.config
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\bin\Debug\Car_Builder.exe
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\bin\Debug\Car_Builder.pdb
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\obj\Debug\Car_Builder.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\obj\Debug\Car_Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\obj\Debug\Car_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\obj\Debug\Car_Builder.exe
+C:\Users\Huawei\Desktop\Solid\CarBuilder\Car_Builder\obj\Debug\Car_Builder.pdb
